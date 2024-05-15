@@ -16,7 +16,7 @@
 
 ✨ Favorite Tech: React JS, React Native, JavaScript
 
-📧 sohailahmaddev@gmail.com
+📧 Gmail: sohailahmaddev@gmail.com
 
 🎨 Portfolio: https://sohailahmaddev.netlify.app
 
