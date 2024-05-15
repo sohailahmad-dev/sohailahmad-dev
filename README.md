@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @sohailahmad-dev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<body>
+  <div align="center">
+    <h1> Hi there, I'm Sohail Ahmad👋<a href="https://sohailahmaddev.netlify.app"></h1>
+  </div>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=040C10&width=735&height=100&lines=MERN+Stack+Developer;Mobile+Application+Developer" alt="Typing SVG" /></a>
+	
 
-<!---
-sohailahmad-dev/sohailahmad-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🤵 Founder & CEO of @boffinstudyhub 🤖
+	
+👨‍💻 React JS Developer at Pixel and Beam
+
+🔥 React/React Native Developer at AI Technologies ✅
+	
+💰 Frontend Developer at Xomacs ✅
+
+✨ Favorite Tech: React JS, React Native, JavaScript
+
+📧 sohailahmaddev@gmail.com
+
+🎨 Portfolio: https://sohailahmaddev.netlify.app
+
+💼 LinkedIn: https://www.linkedin.com/in/sohail-ahmad-dev/
+
+ 
