@@ -74,6 +74,11 @@ I am a passionate and dedicated MERN Stack as well as iOS/Android (Hybrid) Mobil
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohailahmad-dev&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
+## 🏆 GitHub Profile Trophy
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sohailahmad-dev&theme=radical&margin-w=15&margin-h=15" alt="GitHub Profile Trophy">
+</p>
+
 ---
 
 ## 📫 Contact Me
@@ -83,6 +88,4 @@ Feel free to reach out to me for any project collaborations or just to connect!
 <p align="center">
   <a href="https://www.fiverr.com/sohailahmaddev"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white" alt="Fiverr"></a>
   <a href="mailto:sohailahmaddev@gmail.com"><img src="https://img.shields.io/badge/Email-c14438?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://sohailahmaddev.netlify.app"><img src="https://img.shields.io/badge/Portfolio-blueviolet?style=flat&logo=vercel" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/sohail-ahmad-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
+  <
